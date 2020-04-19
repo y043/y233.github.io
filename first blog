@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+<h1>标题1:MY blog</h1>
+<h3>标题2</h3>
+<hr>
+<p><i>This is <small>a</small> <strong>blog</strong>.<del>del </del> <ins> ins </ins></i></p>
+<p>A bolg to study html.<code>code</code></p>
+<address>address</address>
+<p></p>
+<a href="">这是一个空链接</a>
+<p>绝对路径引用图片：</p>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584265165726&di=0adb6f4194fe6893d6d9cb096f0954f2&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F13001a7e5382653798ac7d2a3d782f454dd61498.jpg" width ="256" height ="156">
+<p>相对路径引用图片：</p>
+<img src="https://www.runoob.com/images/logo.png" width ="256" height ="100">
+</body>
+
+<html>
